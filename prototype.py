@@ -190,10 +190,10 @@ __-' { |          \
         def create_styled_button(parent, text, command):
             return tk.Button(parent, text=text, command=command, bg=theme["button_bg"], fg=theme["accent_fg"], activebackground=theme["button_active_bg"], activeforeground=theme["accent_fg"], font=(theme["font_family"], 10, 'bold'), relief='raised', bd=2, width=35, height=2, cursor='hand2')
         
-        purplesharp_btn = create_styled_button(button_frame, "🟪 Wolf Gauntlet", self.show_ttp_executor_page)
+        purplesharp_btn = create_styled_button(button_frame, "🟪 Simulate MITRE TTPs", self.show_ttp_executor_page)
         purplesharp_btn.pack(pady=8)
         
-        playbook_manager_btn = create_styled_button(button_frame, "📚 Playbook Manager", self.show_playbook_manager)
+        playbook_manager_btn = create_styled_button(button_frame, "📚 Attack Chain Manager", self.show_playbook_manager)
         playbook_manager_btn.pack(pady=8)
 
         # --- NEW THREAT ACTOR BUTTON ---
@@ -518,7 +518,7 @@ __-' { |          \
             self.root.after(0, on_finish)
 
     def _execute_purplesharp_simulation_thread(self, ttp_id):
-        self.log_to_terminal(f"\n{'='*80}\n🔬 EXECUTING PURPLESHARP TEST: {ttp_id}\n{'='*80}")
+        self.log_to_terminal(f"\n{'='*80}\n🔬 EXECUTING ARCADIAN TEST: {ttp_id}\n{'='*80}")
         
         def run_ps_command(command_args, phase_name):
             if self.stop_operations: return
@@ -550,7 +550,7 @@ __-' { |          \
         if not self.stop_operations:
             run_ps_command(["/c"], "Cleanup")
         
-        self.log_to_terminal(f"✅ PURPLESHARP TEST FINISHED: {ttp_id}")
+        self.log_to_terminal(f"✅ ARCADIAN TEST FINISHED: {ttp_id}")
 
     # --- SIMULATION & PLAYBOOK EXECUTION ---
 
