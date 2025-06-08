@@ -1,0 +1,22 @@
+Venom spider application is broken if you go to wolf gauntlet first
+not cancel button in venom spider demo
+Lacking vast array of behaviroal detections (Partially complete) | Include search bar for tests, why is it so slow?
+How to get elevated access in powershell to run more tests
+Get rid of anything that says atomic red team
+Try PurpleSharp instead of atomic red team / red canary
+Give the ability to develop new testing within the application
+Rename purplesharp application as Wolf Attacker or something similar. Make it AW branding
+Create a button for Threat Actor Simulations and add Lockbit, Conti, and Venom Spider to it as its own page. with the same look as before
+Playbook manager should be consistent themes
+There is no cancel button on the venom spider testing
+Make it more module
+How to make it more clean and a better looking application than what it is right now. 
+Re-Order the buttons?
+Input validation of application for building custom tests
+Enable the rest of the tests within Purplesharp based on the code
+Change Emoji's
+Can you adjust the custom simulation builder to give me the option to use CMD or Powershell?
+Deleting a custom test
+Being able to view the playbook frmo the application, not having to load it back into the console via a file. 
+Playbook launcher should have folders instead of --
+Arcadian, member of the pack - Have an egg in there somewhere
