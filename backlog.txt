@@ -20,3 +20,4 @@ Deleting a custom test
 Being able to view the playbook frmo the application, not having to load it back into the console via a file. 
 Playbook launcher should have folders instead of --
 Arcadian, member of the pack - Have an egg in there somewhere
+Test pulling the exe and running it and seeing if it works on a bare VM. An exception will need to be made with purplesharp

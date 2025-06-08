@@ -1,0 +1,88 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:10:33.505Z",
+      "id": "2",
+      "references": [],
+      "title": "Add more behavioral detections"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:11:32.450Z",
+      "id": "6",
+      "references": [],
+      "title": "Change emojis"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:14:30.137Z",
+      "id": "7",
+      "references": [],
+      "title": "Change the cancel button to stop within playbook runner"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:10:53.646Z",
+      "id": "3",
+      "references": [],
+      "title": "Change the output of the tests"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:09:19.281Z",
+      "id": "1",
+      "references": [],
+      "title": "Create modular application for Arcadian"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:15:16.030Z",
+      "id": "8",
+      "references": [],
+      "title": "Do not automtically go back pages after saving a new attack chain"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:11:05.763Z",
+      "id": "4",
+      "references": [],
+      "title": "How to make it more visually appealing?"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:11:19.324Z",
+      "id": "5",
+      "references": [],
+      "title": "Input validation for custom tests"
+    },
+    {
+      "assignedTo": {
+        "name": "stanner834"
+      },
+      "creation_time": "2025-06-08T16:15:44.153Z",
+      "id": "9",
+      "references": [],
+      "title": "When editing a current attack chain, do not save a whole new one, just edit the current."
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
