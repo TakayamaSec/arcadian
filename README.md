@@ -23,3 +23,5 @@ Stay ahead of threats with Arcadian — leading the pack in EDR testing.
 
 EDITS:
 Built to be great at testing the efficacy of an EDR utilizing LOLBINS, shell code, and techniques that do not bring in new malware. Much easier to evade detection of command line behaviors, looking for a certain executable etc. It is all contained in the code. 
+
+Easily buildable new tests. 
