@@ -15,7 +15,7 @@ This tool is designed to test the efficacy of the AW tool stack and ensure we re
 
 ## Built On PurpleSharp
 
-Arcadian is built on top of PurpleSharp (not a competitor), enabling effective testing of shellcode without relying on external tools to run malicious commands. This approach is superior for testing the efficacy of LOLBINS by calling native Win32 functions and can be seamlessly integrated into your threat simulation story.
+Arcadian is built on top of PurpleSharp, enabling effective testing of shellcode without relying on external tools to run malicious commands. This approach is superior for testing the efficacy of LOLBINS by calling native Win32 functions and can be seamlessly integrated into your threat simulation story.
 
 ---
 
@@ -25,3 +25,6 @@ EDITS:
 Built to be great at testing the efficacy of an EDR utilizing LOLBINS, shell code, and techniques that do not bring in new malware. Much easier to evade detection of command line behaviors, looking for a certain executable etc. It is all contained in the code. 
 
 Easily buildable new tests. 
+
+
+
